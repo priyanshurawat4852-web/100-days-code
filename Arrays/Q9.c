@@ -15,3 +15,4 @@ void reverseString(char str[]) {
 
     printf("Reversed code name: %s\n", reversed);
 }
+// session 2
