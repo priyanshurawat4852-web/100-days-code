@@ -13,3 +13,4 @@ struct TreeNode* searchBST(struct TreeNode* root, int val) {
         return searchBST(root->left, val);
     return searchBST(root->right, val);
 }
+// session 2
