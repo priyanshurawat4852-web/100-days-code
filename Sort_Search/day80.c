@@ -33,3 +33,5 @@ int main() {
     for (int i = 0; i < n; i++) printf("%.2f ", arr[i]);
     return 0;
 }
+
+// session 2
