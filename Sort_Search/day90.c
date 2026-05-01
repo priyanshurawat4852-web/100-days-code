@@ -25,3 +25,5 @@ int main() {
     printf("%d\n", jumpSearch(arr, n, target));
     return 0;
 }
+
+// session 2
